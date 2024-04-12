@@ -1,0 +1,35 @@
+body
+{
+background-color: bisque;
+font-family: Georgia, 'Times New Roman', Times, serif;
+line-height: 1.6;
+width: 1000px;
+  margin: 100px auto;
+
+}
+
+main
+{
+  
+text-align: justify;
+display: flex;
+}
+
+section
+{
+   border-color: #ccc #e2d0d0 #999 #ccc;
+   border: 1px solid #e2d0d0;
+   margin-bottom: 10px;
+   padding: 10px;
+   background-color: rgb(255, 255, 255);
+}
+
+aside
+{
+ background-color: wheat;
+  border: 1px solid #C9BC8F;
+  padding: 10px;
+  width: 600px;
+  margin-left: 10px;
+  height: 300px;
+}
